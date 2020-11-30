@@ -1,0 +1,20 @@
+body {
+    margin: auto;
+    width: 50%;
+}
+
+#meal {
+    display: flex;
+    margin-top: 10px;
+}
+
+#meal__img {
+    display: none;
+    width: 100px;
+    height: 100px;
+    padding-right: 10px;
+}
+
+#btnGetMeal {
+    background-color: orange;
+}
